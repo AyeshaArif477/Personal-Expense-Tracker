@@ -15,7 +15,9 @@ A simple command-line Python application to help you track daily expenses, categ
 ---
 
 ## Future Improvements
--Filter expenses by category or date range
--Generate monthly or weekly summaries
--Add data visualization (graphs/charts)
--Create a graphical user interface (GUI)
+- Filter expenses by category or date range
+- Generate monthly or weekly summaries
+- Add data visualization (graphs/charts)
+- Create a graphical user interface (GUI)
+  
+---
